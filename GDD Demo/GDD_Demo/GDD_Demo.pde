@@ -1,4 +1,4 @@
-PImage Background;      //Images
+PImage Background;      //Sprites
 PImage PC_Base_Sprite;
 PImage PC_Base_Sprite_Reversed;
 PImage PC_Walk_1_Sprite;
